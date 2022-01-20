@@ -29,7 +29,6 @@ This dataset contains faces of 31 different classes, it contains 90,000 normal f
 - Matplotlip
 - Tensorflow
 - OpenCV
-
-
-
+## Demo:
+https://drive.google.com/file/d/16GAbn7Aik4kW733DwKWCeWv3PkebN9Rj/view?usp=sharing
  
